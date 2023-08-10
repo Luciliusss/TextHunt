@@ -1,0 +1,15 @@
+C:\Users\Tarik\Desktop\TextHunt_GitHub\TextHunt\TextHunt\bin\Debug\net6.0\TextHunt.exe
+C:\Users\Tarik\Desktop\TextHunt_GitHub\TextHunt\TextHunt\bin\Debug\net6.0\TextHunt.deps.json
+C:\Users\Tarik\Desktop\TextHunt_GitHub\TextHunt\TextHunt\bin\Debug\net6.0\TextHunt.runtimeconfig.json
+C:\Users\Tarik\Desktop\TextHunt_GitHub\TextHunt\TextHunt\bin\Debug\net6.0\TextHunt.dll
+C:\Users\Tarik\Desktop\TextHunt_GitHub\TextHunt\TextHunt\bin\Debug\net6.0\TextHunt.pdb
+C:\Users\Tarik\Desktop\TextHunt_GitHub\TextHunt\TextHunt\obj\Debug\net6.0\TextHunt.csproj.AssemblyReference.cache
+C:\Users\Tarik\Desktop\TextHunt_GitHub\TextHunt\TextHunt\obj\Debug\net6.0\TextHunt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarik\Desktop\TextHunt_GitHub\TextHunt\TextHunt\obj\Debug\net6.0\TextHunt.AssemblyInfoInputs.cache
+C:\Users\Tarik\Desktop\TextHunt_GitHub\TextHunt\TextHunt\obj\Debug\net6.0\TextHunt.AssemblyInfo.cs
+C:\Users\Tarik\Desktop\TextHunt_GitHub\TextHunt\TextHunt\obj\Debug\net6.0\TextHunt.csproj.CoreCompileInputs.cache
+C:\Users\Tarik\Desktop\TextHunt_GitHub\TextHunt\TextHunt\obj\Debug\net6.0\TextHunt.dll
+C:\Users\Tarik\Desktop\TextHunt_GitHub\TextHunt\TextHunt\obj\Debug\net6.0\refint\TextHunt.dll
+C:\Users\Tarik\Desktop\TextHunt_GitHub\TextHunt\TextHunt\obj\Debug\net6.0\TextHunt.pdb
+C:\Users\Tarik\Desktop\TextHunt_GitHub\TextHunt\TextHunt\obj\Debug\net6.0\TextHunt.genruntimeconfig.cache
+C:\Users\Tarik\Desktop\TextHunt_GitHub\TextHunt\TextHunt\obj\Debug\net6.0\ref\TextHunt.dll
